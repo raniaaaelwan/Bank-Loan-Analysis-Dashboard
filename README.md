@@ -70,7 +70,7 @@ Due to file size limitations, the dataset is hosted on Google Drive:
 ---
 
 ## 🔗 View Project
-👉 [View on GitHub](https://github.com/raniaelwan/Bank-Loan-Analysis-Dashboard)
+👉 [https://github.com/raniaaaelwan/Bank-Loan-Analysis-Dashboard)
 ---
 
 ## 👩‍💻 Author
