@@ -66,7 +66,7 @@ Due to file size limitations, the dataset is hosted on Google Drive:
 
 ---
 ## 🔗 Links
-- [📂 View Dashboard File (Power BI)](Accident Dashboard.pbix)
+- [📂 View Dashboard File (Power BI)](Bank Dashboard.pbix)
 ---
 
 ## 🔗 View Project
