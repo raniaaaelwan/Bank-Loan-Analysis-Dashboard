@@ -34,7 +34,7 @@ It provides real-time insights into **loan applications, funded amounts, repayme
 
 | Overview | Good vs Bad Loans | Details Dashboard |
 |-----------|------------------|------------------|
-| ![Overview](Bank1.png) | ![Good vs Bad Loans](Bank2.png) | ![Details Dashboard](Bank3.png) |
+| ![Overview](Bank1.PNG) | ![Good vs Bad Loans](Bank2.PNG) | ![Details Dashboard](Bank3.PNG) |
 
 Each page highlights different aspects of loan performance:
 1. **Overview:** Summary of KPIs and overall trends.  
