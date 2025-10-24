@@ -65,13 +65,6 @@ Due to file size limitations, the dataset is hosted on Google Drive:
 [🔗 Download Dataset](https://drive.google.com/file/d/1z87XG0INt_z-SyqgDyXolEN69Y-xe0Ab/view?usp=sharing)
 
 ---
-## 🔗 Links
-- [📂 View Dashboard File (Power BI)](Bank Dashboard.pbix)
----
-
-## 🔗 View Project
-👉 [https://github.com/raniaaaelwan/Bank-Loan-Analysis-Dashboard)
----
 
 ## 👩‍💻 Author
 *Rania Sami Mohamed Alwan*
