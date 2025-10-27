@@ -67,6 +67,6 @@ Due to file size limitations, the dataset is hosted on Google Drive:
 ---
 
 ## 👩‍💻 Author
-**Rania Sami Mohamed Elwan**
+**Rania Elwan**
 
 _Data Analyst | Power BI | SQL | Excel_
